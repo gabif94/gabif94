@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Fresco</h1>
 <h3 align="center">A passionate fullstack developer from Córdoba, Argentina</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gabif94](https://github.com/gabif94)
 
